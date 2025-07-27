@@ -20,8 +20,9 @@ This project investigates whether interest rate change announcements by the Euro
 ## Step 1: Collecting Data
 
 - **Financial Data (API):**  
-  Start `01_stock_data_downloader.py`
-  -> Creates  'stock_data.xlsx' in folder [01_Raw Data/yFinance API](01_Raw%20Data/yFinance%20API)
+  Start `01_stock_data_downloader.py`  
+  -> Creates `stock_data.xlsx` in folder [01_Raw Data/yFinance API](01_Raw%20Data/yFinance%20API)  
+
 
 - **ECB Data (from Browser):**  
   PDFs downloaded from [ECB Press Releases](https://www.ecb.europa.eu/press/govcdec/mopo/html/index.en.html) to folder [01_Raw Data/ECB PDF Downloads](01_Raw%20Data/ECB%20PDF%20Downloads)  
@@ -64,7 +65,7 @@ This project investigates whether interest rate change announcements by the Euro
 
 - Create complete datasets:
   - Start `03_Dataset Creation.py`   
-     -> creates multiple `.xlsx` in [Dataset](03_Dataset%20Creation/Datasets)  
+     -> creates multiple " `.xlsx` " in [Dataset](03_Dataset%20Creation/Datasets)  
   - Uploaded it to Kaggle: ["Datasets_NaiveBayes.zip"](https://kaggle.com/datasets/8b0f9663f57b56f070d7635f52d0f2629b0aa6f3a9678d3454d8355580490204)
  
 ## Step 3.1: Dataset Visualisation
