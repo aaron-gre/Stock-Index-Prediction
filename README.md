@@ -64,7 +64,7 @@ This project investigates whether interest rate change announcements by the Euro
 - Extract Sentiment Analysis:
   - Load `02-1-Sentiment-Analysis.ipynb` from [02_Preprocessing\KAGGLE_Sentiment-Analysis](02_Preprocessing\KAGGLE_Sentiment-Analysis) into Kaggle  
   - Integrate Dataset: [llm-text](https://kaggle.com/datasets/7c259f2a2bfe3bc39138ff3856969397cd09f498515434bb2459e8b512711e2c)  
-  - Or just click the link and it's preloaded: [Sentiment Analysis Notebook](https://www.kaggle.com/code/aarongresser/03-1-sentiment-analysis)  
+  - Or just click the link and it's preloaded: [Sentiment Analysis Notebook](https://www.kaggle.com/code/aarongresser/02-1-sentiment-analysis)  
   - Run code below the markdown "All Models Compared"  
   - Downloaded `ecb_sentiment_analysis.xlsx` into the folder [02_Preprocessing\KAGGLE_Sentiment-Analysis](02_Preprocessing\KAGGLE_Sentiment-Analysis)
 
