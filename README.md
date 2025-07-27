@@ -32,16 +32,14 @@ This project investigates whether interest rate change announcements by the Euro
 ## Step 2: Preprocessing
 
 - PDF to .txt extraction: Start `02_pdf to txt transformer_bulk.py`.
-   -> creates  date folders with .txt files in [02_Preprocessing/TEXT/ECB](02_Preprocessing/TEXT/ECB)
-   -> creates  `EZB Press Release Days.xlsx` in [02_Preprocessing](02_Preprocessing)
-
+  -> creates date folders with .txt files in [02_Preprocessing/TEXT/ECB](02_Preprocessing/TEXT/ECB)
+  -> creates `EZB Press Release Days.xlsx` in [02_Preprocessing](02_Preprocessing)
 
 - Combining Interest Rate .xlsx's: Start `02_excel interestrate parser.py`.
-  -> creates  `interest_rate_2022_2025.xlsx` in [02_Preprocessing/Interest_Rate_Preprocessed](02_Preprocessing/Interest_Rate_Preprocessed)
-
+  -> creates `interest_rate_2022_2025.xlsx` in [02_Preprocessing/Interest_Rate_Preprocessed](02_Preprocessing/Interest_Rate_Preprocessed)
 
 - Combining and One Hot Encoding Stockdata: Start `02_stock_data_one_hot.py`.
-  -> creates  `stock_data_combined_onehot.xlsx` in [02_Preprocessing/Stock_Preprocessed](02_Preprocessing/Stock_Preprocessed)
+  -> creates `stock_data_combined_onehot.xlsx` in [02_Preprocessing/Stock_Preprocessed](02_Preprocessing/Stock_Preprocessed)
 
 
 ---
