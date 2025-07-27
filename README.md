@@ -31,6 +31,10 @@ This project investigates whether interest rate change announcements by the Euro
 
 ## Step 2: Preprocessing
 
+- PDF to .txt extraction: Start `02_pdf to txt transformer_bulk.py`.  
+  -> creates date folders with .txt files in [02_Preprocessing/TEXT/ECB](02_Preprocessing/TEXT/ECB)  
+  -> creates `EZB Press Release Days.xlsx` in [02_Preprocessing](02_Preprocessing)
+
 - PDF to .txt extraction: Start `02_pdf to txt transformer_bulk.py`.
     -> creates date folders with .txt files in [02_Preprocessing/TEXT/ECB](02_Preprocessing/TEXT/ECB)
     -> creates `EZB Press Release Days.xlsx` in [02_Preprocessing](02_Preprocessing)
