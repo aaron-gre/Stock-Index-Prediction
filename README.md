@@ -65,7 +65,7 @@ This project investigates whether interest rate change announcements by the Euro
 
 - Create complete datasets:
   - Start `03_Dataset Creation.py`   
-     -> creates multiple " `.xlsx` " in [Dataset](03_Dataset%20Creation/Datasets)  
+     -> creates multiple "`.xlsx`" in [Dataset](03_Dataset%20Creation/Datasets)  
   - Uploaded it to Kaggle: ["Datasets_NaiveBayes.zip"](https://kaggle.com/datasets/8b0f9663f57b56f070d7635f52d0f2629b0aa6f3a9678d3454d8355580490204)
  
 ## Step 3.1: Dataset Visualisation
