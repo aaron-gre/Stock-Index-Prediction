@@ -21,7 +21,7 @@ This project investigates whether interest rate change announcements by the Euro
 
 - **Financial Data (API):**  
   Start `01_stock_data_downloader.py`
-   -> Creates  'stock_data.xlsx' in folder [01_Raw Data/yFinance API](01_Raw%20Data/yFinance%20API)
+  -> Creates  'stock_data.xlsx' in folder [01_Raw Data/yFinance API](01_Raw%20Data/yFinance%20API)
 
 - **ECB Data (from Browser):**  
   PDFs downloaded from [ECB Press Releases](https://www.ecb.europa.eu/press/govcdec/mopo/html/index.en.html) to folder [01_Raw Data/ECB PDF Downloads](01_Raw%20Data/ECB%20PDF%20Downloads)  
