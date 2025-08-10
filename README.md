@@ -70,7 +70,7 @@ This project investigates whether interest rate change announcements by the Euro
  
 ## Step 3.1: Dataset Visualisation
 
-- Load `03-dataset-visualization.ipynb` from [03_Dataset Creation](03_Dataset%20Creation) into Kaggle    
+- Load `03-dataset-visualization.ipynb` into Kaggle    
  - Load the dataset: [Datasets_NaiveBayes](https://kaggle.com/datasets/8b0f9663f57b56f070d7635f52d0f2629b0aa6f3a9678d3454d8355580490204)  
  - Or just click the link and it's preloaded: [Dataset Visualization Notebook](https://www.kaggle.com/code/aarongresser/03-dataset-visualization)
  - Complete run
@@ -82,14 +82,14 @@ This project investigates whether interest rate change announcements by the Euro
 
 ### Step 4: Hyperparameter Configuration
 
-- Load `04-hyperparamter-configuration.ipynb` from [04_Hyperparamter Tuning](04_Hyperparamter%20Tuning) into Kaggle  
+- Load `04-hyperparamter-configuration.ipynb` into Kaggle  
 - Load the dataset: [Datasets_NaiveBayes](https://kaggle.com/datasets/8b0f9663f57b56f070d7635f52d0f2629b0aa6f3a9678d3454d8355580490204)  
 - Or just click the link and it's preloaded: [Hyperparameter Config Notebook](https://www.kaggle.com/code/aarongresser/04-hyperparamter-configuration)  
 - Complete run
 
 ### Step 5: Model Training
 
-- Load `05-modell-training.ipynb` from [05_Modell Training](05_Modell%20Training) into Kaggle  
+- Load `05-modell-training.ipynb` into Kaggle  
 - Load the dataset: [Datasets_NaiveBayes](https://kaggle.com/datasets/8b0f9663f57b56f070d7635f52d0f2629b0aa6f3a9678d3454d8355580490204)
 - Or just click the link and it's preloaded: [Model Training Notebook](https://www.kaggle.com/code/aarongresser/05-modell-training)  
 - Complete run
